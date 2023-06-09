@@ -1,0 +1,16 @@
+#funcion integrada
+'''n =float("10.8")
+print(n)
+m= str(10.98)
+print(m)
+s=bin(10)
+print(s)
+k=hex(10)
+print(k)
+c= int("0b1010",2)
+h=abs(-8)
+print(h)
+j=round(5.6)
+print(j)
+i=len("garcia")
+print(i)'''
